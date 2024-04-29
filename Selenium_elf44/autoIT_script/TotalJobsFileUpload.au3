@@ -1,0 +1,7 @@
+send("C:\Users\91846\Desktop\resumes\Srinithi-resume updated.pdf")
+sleep(500)
+send("{TAB}")
+sleep(500)
+send("{TAB}")
+slepp(500)
+send("{ENTER}")
